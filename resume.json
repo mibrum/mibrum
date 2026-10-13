@@ -1,0 +1,208 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Mireia Bru",
+    "label": "Product Owner & Architect – AI/ML",
+    "email": "mireiabrumartinez@gmail.com",
+    "summary": "7+ years shipping software, managing teams, and owning product in automotive and tech. Currently building production AI/ML products at Scania (TRATON R&D); previously led two teams at Volvo Cars delivering a global e-commerce platform from zero. I love hard problems, new tech, and the outdoors. Happiest when the pace is fast and the challenge is complex.",
+    "location": {
+      "city": "Stockholm",
+      "countryCode": "SE"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/mireiabm/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Scania",
+      "position": "Product Owner & Architect – AI/ML",
+      "location": "Stockholm, Sweden",
+      "startDate": "2025-09",
+      "highlights": [
+        "Own the product roadmap for generative AI tools supporting R&D across TRATON's brands, balancing stakeholder needs with technical feasibility.",
+        "Lead development of production-ready AI products built on RAG architectures, LLMs, and internal data platforms, from early-stage prototypes to deployed solutions.",
+        "Hands-on across the stack: build and iterate on features while coordinating with ML engineers, data engineers, and domain experts."
+      ]
+    },
+    {
+      "name": "Volvo Cars",
+      "position": "Engineering Manager",
+      "location": "Stockholm, Sweden",
+      "startDate": "2023-05",
+      "endDate": "2025-09",
+      "highlights": [
+        "Led two cross-functional teams (8–12 engineers) within Commercial Digital, delivering the Online Sales accessories platform, a new global revenue stream for Volvo Cars.",
+        "Owned delivery end-to-end: sprint planning, hiring, 1:1s, performance reviews, architectural decisions, and stakeholder alignment.",
+        "Stayed hands-on technically: contributed to frontend architecture decisions, code reviews, and critical path features in React/TypeScript."
+      ]
+    },
+    {
+      "name": "Volvo Cars",
+      "position": "Software Developer",
+      "location": "Stockholm, Sweden",
+      "startDate": "2023-01",
+      "endDate": "2023-05",
+      "highlights": [
+        "Built the next-generation car configuration experience, redefining how users explore and personalize vehicles on volvo.com."
+      ]
+    },
+    {
+      "name": "Mentimeter",
+      "position": "Software Engineer",
+      "location": "Stockholm, Sweden",
+      "startDate": "2021-04",
+      "endDate": "2023-01",
+      "highlights": [
+        "Built interactive features and premium capabilities for the core presentation editor at a high-growth SaaS startup (10M+ users)."
+      ]
+    },
+    {
+      "name": "Zooplus",
+      "position": "Software Engineer",
+      "location": "Madrid, Spain",
+      "startDate": "2019-05",
+      "endDate": "2021-04",
+      "highlights": [
+        "Founding team member for an internal promotions management SPA built with Vue.js and TypeScript, enabling campaign management across 90+ European markets."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "International University of La Rioja",
+      "studyType": "Master of Engineering",
+      "area": "Artificial Intelligence",
+      "startDate": "2026-09",
+      "courses": [
+        "Machine Learning",
+        "Deep Learning",
+        "NLP",
+        "Computer Vision",
+        "AI Algorithms"
+      ]
+    },
+    {
+      "institution": "International University of La Rioja",
+      "studyType": "Master of Engineering",
+      "area": "Software Engineering and Computer Systems",
+      "score": "ECTS: B",
+      "courses": [
+        "Advanced Databases",
+        "Advanced Software Engineering",
+        "Research Methods in Computer Science",
+        "Software Architecture",
+        "Cloud Computing",
+        "Software Development Processes"
+      ]
+    },
+    {
+      "institution": "Complutense University of Madrid",
+      "studyType": "Bachelor's degree",
+      "area": "Digital Media Design",
+      "courses": [
+        "Interaction Design",
+        "UI Prototyping",
+        "Information Architecture",
+        "Usability Engineering"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "keywords": [
+        "TypeScript",
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Vue.js",
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "Redux",
+        "Vite"
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
+        "Node.js",
+        "Express",
+        "NestJS",
+        "Python",
+        "FastAPI",
+        "GraphQL",
+        "REST APIs"
+      ]
+    },
+    {
+      "name": "Data",
+      "keywords": [
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Prisma"
+      ]
+    },
+    {
+      "name": "AI/ML",
+      "keywords": [
+        "LLMs",
+        "RAG",
+        "Generative AI",
+        "LangChain",
+        "Hugging Face",
+        "PyTorch",
+        "scikit-learn"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "keywords": [
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "GitHub Actions",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Testing",
+      "keywords": [
+        "Jest",
+        "Vitest",
+        "Cypress"
+      ]
+    },
+    {
+      "name": "Leadership",
+      "keywords": [
+        "Engineering Management",
+        "Product Ownership",
+        "Hiring",
+        "Software Architecture"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English"
+    },
+    {
+      "language": "Spanish"
+    },
+    {
+      "language": "Catalan"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Intermediate"
+    }
+  ]
+}
