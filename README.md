@@ -1,64 +1,67 @@
-<div align="center">
+<br/>
 
-# Hi, I'm Mireia 👋
+# Mireia Bru
 
-<a href="https://github.com/mibrum">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=620&lines=Product+Owner+%26+Architect+%E2%80%93+AI%2FML+%40+Scania;Full-stack+engineer+%C2%B7+React+%2B+TypeScript;Building+production+LLM+%26+RAG+products;Ex-Engineering+Manager+%40+Volvo+Cars" alt="Typing intro" />
-</a>
+Product Owner & Architect, AI/ML at **TRATON Group (R&D)**.<br/>
+A bit of everything. Former Engineering Manager at Volvo Cars. Based in Stockholm, Sweden.
 
-<a href="https://www.linkedin.com/in/mireiabm/"><img src="https://img.shields.io/badge/LinkedIn-mireiabm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:mireiabrumartinez@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Based%20in-Stockholm%20🇸🇪-1f2937?style=for-the-badge" alt="Stockholm" />
+<sub><a href="https://www.linkedin.com/in/mireiabm/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:mireiabrumartinez@gmail.com">Email</a> &nbsp;·&nbsp; <a href="./resume.json">resume.json</a></sub>
 
-</div>
+<br/>
 
----
+Seven years of shipping software, leading teams and owning product. Today I take generative AI from prototype to production for R&D across the TRATON group.
 
 ```ts
 const mireia = {
-  role: "Product Owner & Architect – AI/ML",
-  company: "Scania · TRATON R&D",
-  experience: "7+ years shipping software, leading teams and owning product",
-  currentlyBuilding: ["GenAI tools for R&D", "RAG pipelines", "LLM-powered products"],
-  previously: ["Engineering Manager @ Volvo Cars", "Mentimeter", "Zooplus"],
+  now: "GenAI tools, RAG pipelines, LLM products @ Scania",
+  before: ["Volvo Cars", "Mentimeter", "Zooplus"],
   studying: "MEng Artificial Intelligence",
-  languages: ["English", "Spanish", "Catalan", "Swedish"],
-  offline: ["🏔️ mountains", "🥾 hiking", "🌲 anything outdoors"],
+  speaks: ["en", "es", "ca", "sv"],
+  offline: "outdoors",
 };
 ```
 
-## 🛠️ Tech stack
+<br/>
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nodejs,py,postgres,docker,aws,githubactions&theme=light" height="26" alt="Core stack" />
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,html,css,tailwind,redux,vite&perline=10" />
+<sub>TypeScript · JavaScript · React · Next.js · Vue.js · Redux · Tailwind</sub>
 
-**Backend & data**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,fastapi,graphql,postgres,mongodb,redis,prisma&perline=10" />
+**Backend**<br/>
+<sub>Node.js · Express · Python · GraphQL · REST APIs</sub>
 
-**AI / ML**<br/>
-<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn&perline=10" />
+**AI / ML - currently, learning**<br/>
+<sub>LLMs · RAG · LangChain · Hugging Face · PyTorch · scikit-learn</sub>
+
+**Testing**<br/>
+<sub>Jest · Vitest · Cypress</sub>
+
 <br/>
-<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square" alt="LLMs" />
-<img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square" alt="RAG" />
-<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=flat-square" alt="Generative AI" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
 
-**Cloud, DevOps & testing**<br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,git,jest,vitest,cypress&perline=10" />
+### Experience
 
-## 💼 Experience
+**Scania** &nbsp;·&nbsp; Product Owner & Architect, AI/ML<br/>
+<sub>2025 – present</sub>
 
-| When | Role | Where |
-|---|---|---|
-| 2025 → now | Product Owner & Architect – AI/ML | **Scania** |
-| 2023 → 2025 | Engineering Manager (2 teams, 8–12 engineers) | **Volvo Cars** |
-| 2023 | Software Developer | **Volvo Cars** |
-| 2021 → 2023 | Software Engineer | **Mentimeter** |
-| 2019 → 2021 | Software Engineer | **Zooplus** |
+**Volvo Cars** &nbsp;·&nbsp; Engineering Manager<br/>
+<sub>2023 – 2025</sub>
+
+**Volvo Cars** &nbsp;·&nbsp; Software Developer<br/>
+<sub>2023</sub>
+
+**Mentimeter** &nbsp;·&nbsp; Software Engineer<br/>
+<sub>2021 – 2023</sub>
+
+**Zooplus** &nbsp;·&nbsp; Software Engineer<br/>
+<sub>2019 – 2021</sub>
+
+<br/>
 
 <details>
-<summary><b>📄 <code>$ cat resume.json</code></b> (click to expand the full resume)</summary>
+<summary><sub><code>$ cat resume.json</code></sub></summary>
 
 ```json
 {
@@ -185,34 +188,19 @@ const mireia = {
         "Vue.js",
         "HTML",
         "CSS",
-        "Tailwind CSS",
         "Redux",
-        "Vite"
       ]
     },
     {
       "name": "Backend",
       "keywords": [
         "Node.js",
-        "Express",
-        "NestJS",
         "Python",
-        "FastAPI",
-        "GraphQL",
         "REST APIs"
       ]
     },
     {
-      "name": "Data",
-      "keywords": [
-        "PostgreSQL",
-        "MongoDB",
-        "Redis",
-        "Prisma"
-      ]
-    },
-    {
-      "name": "AI/ML",
+      "name": "AI/ML (Currently, learning)",
       "keywords": [
         "LLMs",
         "RAG",
@@ -221,18 +209,6 @@ const mireia = {
         "Hugging Face",
         "PyTorch",
         "scikit-learn"
-      ]
-    },
-    {
-      "name": "Cloud & DevOps",
-      "keywords": [
-        "AWS",
-        "Azure",
-        "Docker",
-        "Kubernetes",
-        "Terraform",
-        "GitHub Actions",
-        "CI/CD"
       ]
     },
     {
@@ -272,5 +248,3 @@ const mireia = {
 ```
 
 </details>
-
-<sub>The resume lives in <a href="./resume.json"><code>resume.json</code></a> and follows the <a href="https://jsonresume.org/schema">JSON Resume</a> schema.</sub>
