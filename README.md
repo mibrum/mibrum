@@ -2,8 +2,8 @@
 
 # Mireia Bru
 
-Product Owner & Architect, AI/ML at **TRATON Group (R&D)**.<br/>
-A bit of everything. Former Engineering Manager at Volvo Cars. Based in Stockholm, Sweden.
+Product Owner & Software Architect, AI/ML at **TRATON Group (R&D)**.<br/>
+A bit of everything. Former Engineering Manager at Volvo Cars, Software Developer for 7+ years, and always curious about new tech and ideas. I’ve worked across a wide range of projects and currently call Stockholm, Sweden home.
 
 <sub><a href="https://www.linkedin.com/in/mireiabm/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:mireiabrumartinez@gmail.com">Email</a> &nbsp;·&nbsp; <a href="./resume.json">resume.json</a></sub>
 
